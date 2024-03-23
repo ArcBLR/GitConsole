@@ -15,7 +15,6 @@ public class GitConsoleHW {
         int num = scanner.nextInt();
 
 
-
     }
-
 }
+
